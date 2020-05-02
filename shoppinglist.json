@@ -1,0 +1,115 @@
+[
+    {
+        "SerialNumber":"001",
+        "Name":"Sugar",
+        "Quantity": 10,
+        "Unit":"kg", 
+        "Department":"Grocery",
+        "Notes":"Brown Sugar from Parry's"
+    },
+    {
+        "SerialNumber":"002",
+        "Name":"Tea powder",
+        "Quantity": 500,
+        "Unit":"grams", 
+        "Department":"Grocery",
+        "Notes":"Red Label"
+    },
+    {
+        "SerialNumber":"003",
+        "Name":"Salt",
+        "Quantity": 1,
+        "Unit":"kg", 
+        "Department":"Grocery",
+        "Notes":"Crystal salt -Tata"
+    },
+    {
+        "SerialNumber":"004",
+        "Name":"Oil",
+        "Quantity": 5,
+        "Unit":"litres", 
+        "Department":"Grocery",
+        "Notes":"Refined Rice Bran oil"
+    },
+    {
+        "SerialNumber":"005",
+        "Name":"Mobile Phone",
+        "Quantity": 1,
+        "Unit":"piece", 
+        "Department":"Electronics",
+        "Notes":"Mi Max latest model"
+    },
+    {
+        "SerialNumber":"006",
+        "Name":"Skin cream",
+        "Quantity": 2,
+        "Unit":"50 ml", 
+        "Department":"Beauty",
+        "Notes":"Olay brand only"
+    },
+    {
+        "SerialNumber":"007",
+        "Name":"Cooking Recipes by Tarla Dalal",
+        "Quantity": 1,
+        "Unit":"piece", 
+        "Department":"Books",
+        "Notes":"Not urgent"
+    },
+    {
+        "SerialNumber":"008",
+        "Name":"Protein powder",
+        "Quantity": 500,
+        "Unit":"grams", 
+        "Department":"Wellness",
+        "Notes":"D -Protein"
+    },
+    {
+        "SerialNumber":"009",
+        "Name":"Soap",
+        "Quantity": 10,
+        "Unit":"pieces", 
+        "Department":"Beauty",
+        "Notes":"Cinthol - White"
+    }, 
+    {
+        "SerialNumber":"010",
+        "Name":"Kashmiri Chilly powder",
+        "Quantity": 1,
+        "Unit":"kg", 
+        "Department":"Grocery",
+        "Notes":"Brahmins brand preferred"
+    },
+    {
+        "SerialNumber":"011",
+        "Name":"Shaving cream",
+        "Quantity":3,
+        "Unit":"pieces", 
+        "Department":"Beauty",
+        "Notes":"Gillete"
+    },
+    {
+        "SerialNumber":"012",
+        "Name":"Health mix",
+        "Quantity": 500,
+        "Unit":"grams", 
+        "Department":"Wellness",
+        "Notes":"Manna Health mix"
+    },
+    {
+        "SerialNumber":"013",
+        "Name":"Wings of Fire",
+        "Quantity": 1,
+        "Unit":"piece", 
+        "Department":"Books",
+        "Notes":""
+    },
+    {
+        "SerialNumber":"014",
+        "Name":"Womens Era",
+        "Quantity": 1,
+        "Unit":"piece", 
+        "Department":"Books",
+        "Notes":"Latest edition"
+    }
+    
+]

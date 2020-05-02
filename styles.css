@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color:#12343b;
+    color:white;
+}
+
+table,th{
+    color:white;
+}
